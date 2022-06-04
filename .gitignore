@@ -2,3 +2,4 @@
 *DS_Store
 Notebooks/course_data/*
 Notebooks/model_checkpoint.pt
+*checkpoint.ipynb
